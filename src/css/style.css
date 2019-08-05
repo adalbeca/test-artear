@@ -1,0 +1,6 @@
+.card-box {
+    width:100%;
+}
+.card-deck .card {
+    flex: none;
+}
